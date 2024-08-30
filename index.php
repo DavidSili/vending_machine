@@ -26,4 +26,4 @@ $machine
     ->buyDrink( 'Espresso' )
     ->getCoins()
     ->viewAmount()
-    ->getCoins();;
+    ->getCoins();
